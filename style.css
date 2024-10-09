@@ -1,0 +1,76 @@
+html {
+  background: darkgray;
+}
+
+body {
+  background: white;
+  width: 600px;
+  margin: 0px auto;
+  padding: 45px 50px;
+  border-bottom: 2px solid grey;
+  border-left: 6px solid grey;
+  border-radius: 25px;
+}
+
+h1 {
+  text-align: center;
+  padding: 15px;
+  background: rgb(235, 233, 233);
+  border-bottom: 4px solid rgb(172, 172, 172);
+  border-left: 3px solid rgb(172, 172, 172);
+  border-radius: 25px;
+}
+
+h2 {
+  text-align: center;
+  padding: 20px 25px;
+  background: rgb(235, 233, 233);
+  border-bottom: 4px solid rgb(172, 172, 172);
+  border-left: 3px solid rgb(172, 172, 172);
+  border-radius: 25px;
+}
+
+p {
+  text-align: center;
+}
+
+table {
+  margin: 0px auto;
+}
+
+table,
+th,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+th {
+  padding: 10px 12px;
+}
+
+td {
+  padding: 7px 10px;
+}
+
+img {
+  width: 175px;
+  height: 100px;
+}
+
+input {
+  width: 20px;
+}
+
+.table td,
+.table {
+  border: none;
+}
+
+.Opposite {
+  border-bottom: 2px solid black !important;
+}
+
+#Adjacent {
+  border-bottom: 2px solid black !important;
+}
